@@ -46,3 +46,11 @@ h1 {
 .property h3 {
   margin-top: 0;
 }
+
+.back-button{
+background:#444;
+color:white;
+padding:8px 12px;
+border-radius:5px;
+text-decoration:none;
+}
